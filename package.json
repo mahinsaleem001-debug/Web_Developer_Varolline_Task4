@@ -1,0 +1,11 @@
+{
+  "name": "bazaarly",
+  "version": "1.0.0",
+  "description": "Bazaarly: responsive product catalog with a persistent shopping cart (Varolline Web Developer Task 4)",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes http-server -p 8080 -c-1 ."
+  },
+  "license": "MIT"
+}
