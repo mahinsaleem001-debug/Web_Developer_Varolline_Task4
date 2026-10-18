@@ -1,0 +1,564 @@
+[
+  {
+    "id": "p01",
+    "name": "Aurora Wireless Headphones",
+    "category": "Electronics",
+    "price": 129.0,
+    "compareAt": 169.0,
+    "rating": 4.7,
+    "reviews": 842,
+    "stock": 25,
+    "badge": "Best seller",
+    "art": "headphones",
+    "colors": [
+      "#c7d2fe",
+      "#a5b4fc",
+      "#312e81"
+    ],
+    "description": "Over-ear Bluetooth headphones with deep bass, soft memory-foam cushions and all-day comfort.",
+    "features": [
+      "38-hour battery life",
+      "Active noise cancelling",
+      "Fast USB-C charging",
+      "Built-in microphone"
+    ]
+  },
+  {
+    "id": "p02",
+    "name": "Pulse Smart Watch",
+    "category": "Electronics",
+    "price": 189.0,
+    "compareAt": 229.0,
+    "rating": 4.5,
+    "reviews": 615,
+    "stock": 18,
+    "badge": "Sale",
+    "art": "watch",
+    "colors": [
+      "#fde68a",
+      "#fbbf24",
+      "#1f2937"
+    ],
+    "description": "A bright AMOLED smart watch that tracks your steps, sleep and heart rate, and shows your phone alerts.",
+    "features": [
+      "1.4-inch AMOLED display",
+      "7-day battery",
+      "Water resistant to 50 m",
+      "GPS and heart-rate sensor"
+    ]
+  },
+  {
+    "id": "p03",
+    "name": "Nimbus Portable Speaker",
+    "category": "Electronics",
+    "price": 59.0,
+    "rating": 4.4,
+    "reviews": 1208,
+    "stock": 40,
+    "badge": "",
+    "art": "speaker",
+    "colors": [
+      "#bae6fd",
+      "#7dd3fc",
+      "#0c4a6e"
+    ],
+    "description": "A pocket-size speaker with surprisingly big sound. Pair two for stereo.",
+    "features": [
+      "12-hour playtime",
+      "IPX7 waterproof",
+      "Bluetooth 5.3",
+      "Built-in carabiner"
+    ]
+  },
+  {
+    "id": "p04",
+    "name": "Lumen Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 94.0,
+    "compareAt": 119.0,
+    "rating": 4.8,
+    "reviews": 376,
+    "stock": 12,
+    "badge": "New",
+    "art": "keyboard",
+    "colors": [
+      "#fbcfe8",
+      "#f9a8d4",
+      "#831843"
+    ],
+    "description": "A compact 75% keyboard with hot-swappable switches and a satisfying, quiet typing feel.",
+    "features": [
+      "Hot-swappable switches",
+      "USB-C and Bluetooth",
+      "Per-key RGB lighting",
+      "Aluminium frame"
+    ]
+  },
+  {
+    "id": "p05",
+    "name": "Snapshot Instant Camera",
+    "category": "Electronics",
+    "price": 79.0,
+    "rating": 4.2,
+    "reviews": 289,
+    "stock": 0,
+    "badge": "",
+    "art": "camera",
+    "colors": [
+      "#fed7aa",
+      "#fdba74",
+      "#7c2d12"
+    ],
+    "description": "Point, shoot and hold your photo in a minute. Great for trips, parties and scrapbooks.",
+    "features": [
+      "Instant prints",
+      "Built-in flash",
+      "Selfie mirror",
+      "Wrist strap included"
+    ]
+  },
+  {
+    "id": "p06",
+    "name": "Orbit Wireless Earbuds",
+    "category": "Electronics",
+    "price": 49.0,
+    "compareAt": 69.0,
+    "rating": 4.3,
+    "reviews": 951,
+    "stock": 60,
+    "badge": "Sale",
+    "art": "headphones",
+    "colors": [
+      "#ddd6fe",
+      "#c4b5fd",
+      "#4c1d95"
+    ],
+    "description": "Light, secure earbuds with clear calls and a charging case that fits in any pocket.",
+    "features": [
+      "24-hour total battery",
+      "Touch controls",
+      "Sweat resistant",
+      "Low-latency gaming mode"
+    ]
+  },
+  {
+    "id": "p07",
+    "name": "Stride Everyday Sneakers",
+    "category": "Fashion",
+    "price": 84.0,
+    "rating": 4.6,
+    "reviews": 734,
+    "stock": 30,
+    "badge": "Best seller",
+    "art": "sneaker",
+    "colors": [
+      "#fecaca",
+      "#fca5a5",
+      "#7f1d1d"
+    ],
+    "description": "Cushioned, breathable sneakers that look good with everything from jeans to gym shorts.",
+    "features": [
+      "Breathable mesh upper",
+      "Cushioned insole",
+      "Non-slip rubber sole",
+      "Machine washable"
+    ]
+  },
+  {
+    "id": "p08",
+    "name": "Classic Cotton Tee",
+    "category": "Fashion",
+    "price": 24.0,
+    "rating": 4.5,
+    "reviews": 2110,
+    "stock": 100,
+    "badge": "",
+    "art": "tee",
+    "colors": [
+      "#bbf7d0",
+      "#86efac",
+      "#14532d"
+    ],
+    "description": "A soft, heavyweight cotton t-shirt that keeps its shape wash after wash.",
+    "features": [
+      "100% organic cotton",
+      "Relaxed fit",
+      "Pre-shrunk",
+      "Available in 6 colours"
+    ]
+  },
+  {
+    "id": "p09",
+    "name": "Voyager Daypack",
+    "category": "Fashion",
+    "price": 69.0,
+    "compareAt": 89.0,
+    "rating": 4.7,
+    "reviews": 543,
+    "stock": 22,
+    "badge": "Sale",
+    "art": "backpack",
+    "colors": [
+      "#a7f3d0",
+      "#6ee7b7",
+      "#064e3b"
+    ],
+    "description": "A roomy 22-litre backpack with a padded laptop sleeve and hidden pockets for your valuables.",
+    "features": [
+      "Fits a 15-inch laptop",
+      "Water-repellent fabric",
+      "Padded shoulder straps",
+      "Hidden back pocket"
+    ]
+  },
+  {
+    "id": "p10",
+    "name": "Breeze Sunglasses",
+    "category": "Fashion",
+    "price": 39.0,
+    "rating": 4.1,
+    "reviews": 318,
+    "stock": 45,
+    "badge": "",
+    "art": "sunglasses",
+    "colors": [
+      "#fef08a",
+      "#fde047",
+      "#422006"
+    ],
+    "description": "Lightweight polarised sunglasses with a classic shape that suits most faces.",
+    "features": [
+      "Polarised lenses",
+      "UV400 protection",
+      "Flexible frame",
+      "Hard case included"
+    ]
+  },
+  {
+    "id": "p11",
+    "name": "Harbor Wool Scarf",
+    "category": "Fashion",
+    "price": 32.0,
+    "compareAt": 45.0,
+    "rating": 4.4,
+    "reviews": 167,
+    "stock": 35,
+    "badge": "Sale",
+    "art": "tee",
+    "colors": [
+      "#e9d5ff",
+      "#d8b4fe",
+      "#581c87"
+    ],
+    "description": "A warm, soft merino-blend scarf in a generous size you can wrap twice.",
+    "features": [
+      "Merino wool blend",
+      "Extra long 190 cm",
+      "Soft, no itch",
+      "Gift ready"
+    ]
+  },
+  {
+    "id": "p12",
+    "name": "Trail Leather Wallet",
+    "category": "Fashion",
+    "price": 45.0,
+    "rating": 4.6,
+    "reviews": 402,
+    "stock": 50,
+    "badge": "",
+    "art": "wallet",
+    "colors": [
+      "#fed7aa",
+      "#fb923c",
+      "#431407"
+    ],
+    "description": "A slim full-grain leather wallet with space for eight cards and cash, and RFID blocking.",
+    "features": [
+      "Full-grain leather",
+      "RFID blocking",
+      "8 card slots",
+      "Slim 6 mm profile"
+    ]
+  },
+  {
+    "id": "p13",
+    "name": "Glow Ceramic Table Lamp",
+    "category": "Home & Living",
+    "price": 64.0,
+    "rating": 4.5,
+    "reviews": 221,
+    "stock": 16,
+    "badge": "New",
+    "art": "lamp",
+    "colors": [
+      "#fef3c7",
+      "#fde68a",
+      "#92400e"
+    ],
+    "description": "A warm, calming table lamp with a hand-glazed ceramic base and linen shade.",
+    "features": [
+      "Hand-glazed ceramic",
+      "Warm 2700K bulb included",
+      "Inline dimmer",
+      "Linen shade"
+    ]
+  },
+  {
+    "id": "p14",
+    "name": "Morning Stoneware Mug",
+    "category": "Home & Living",
+    "price": 18.0,
+    "rating": 4.8,
+    "reviews": 1530,
+    "stock": 120,
+    "badge": "Best seller",
+    "art": "mug",
+    "colors": [
+      "#fbcfe8",
+      "#f9a8d4",
+      "#9d174d",
+      "#831843"
+    ],
+    "description": "A chunky 350 ml stoneware mug that keeps your coffee warm and feels great in your hands.",
+    "features": [
+      "350 ml capacity",
+      "Dishwasher safe",
+      "Microwave safe",
+      "Reactive glaze"
+    ]
+  },
+  {
+    "id": "p15",
+    "name": "Evergreen Potted Plant",
+    "category": "Home & Living",
+    "price": 29.0,
+    "rating": 4.3,
+    "reviews": 264,
+    "stock": 28,
+    "badge": "",
+    "art": "plant",
+    "colors": [
+      "#d9f99d",
+      "#bef264",
+      "#14532d"
+    ],
+    "description": "A low-maintenance indoor plant in a matte ceramic pot. Perfect for desks and shelves.",
+    "features": [
+      "Easy to care for",
+      "Matte ceramic pot",
+      "About 30 cm tall",
+      "Pet safe"
+    ]
+  },
+  {
+    "id": "p16",
+    "name": "Ember Soy Candle",
+    "category": "Home & Living",
+    "price": 22.0,
+    "compareAt": 28.0,
+    "rating": 4.7,
+    "reviews": 689,
+    "stock": 70,
+    "badge": "Sale",
+    "art": "candle",
+    "colors": [
+      "#fecdd3",
+      "#fda4af",
+      "#881337"
+    ],
+    "description": "A hand-poured soy candle with notes of vanilla, cedar and warm amber. Burns for 45 hours.",
+    "features": [
+      "100% soy wax",
+      "45-hour burn time",
+      "Cotton wick",
+      "Reusable glass jar"
+    ]
+  },
+  {
+    "id": "p17",
+    "name": "Atlas Hardcover Notebook",
+    "category": "Home & Living",
+    "price": 16.0,
+    "rating": 4.6,
+    "reviews": 873,
+    "stock": 90,
+    "badge": "",
+    "art": "book",
+    "colors": [
+      "#bfdbfe",
+      "#93c5fd",
+      "#1e3a8a"
+    ],
+    "description": "A lay-flat, dotted notebook with thick paper that handles fountain pens and markers.",
+    "features": [
+      "192 pages",
+      "120 gsm paper",
+      "Lay-flat binding",
+      "Ribbon bookmark"
+    ]
+  },
+  {
+    "id": "p18",
+    "name": "Cloud Linen Throw",
+    "category": "Home & Living",
+    "price": 54.0,
+    "compareAt": 72.0,
+    "rating": 4.5,
+    "reviews": 198,
+    "stock": 14,
+    "badge": "Sale",
+    "art": "tee",
+    "colors": [
+      "#cffafe",
+      "#a5f3fc",
+      "#155e75"
+    ],
+    "description": "A breathable linen-cotton throw for the sofa or the end of the bed. Gets softer with each wash.",
+    "features": [
+      "Linen-cotton blend",
+      "130 x 170 cm",
+      "Pre-washed",
+      "Machine washable"
+    ]
+  },
+  {
+    "id": "p19",
+    "name": "Hydra Steel Bottle",
+    "category": "Accessories",
+    "price": 28.0,
+    "rating": 4.8,
+    "reviews": 1904,
+    "stock": 80,
+    "badge": "Best seller",
+    "art": "bottle",
+    "colors": [
+      "#a5f3fc",
+      "#67e8f9",
+      "#164e63"
+    ],
+    "description": "A vacuum-insulated bottle that keeps drinks cold for 24 hours or hot for 12.",
+    "features": [
+      "750 ml capacity",
+      "Leak-proof lid",
+      "BPA free",
+      "Fits car cup holders"
+    ]
+  },
+  {
+    "id": "p20",
+    "name": "Compass Travel Organiser",
+    "category": "Accessories",
+    "price": 36.0,
+    "rating": 4.4,
+    "reviews": 152,
+    "stock": 26,
+    "badge": "",
+    "art": "wallet",
+    "colors": [
+      "#e0e7ff",
+      "#c7d2fe",
+      "#3730a3"
+    ],
+    "description": "Keep your passport, cards and tickets in one tidy, zip-around organiser.",
+    "features": [
+      "Passport slot",
+      "RFID protection",
+      "Zip closure",
+      "Wrist strap"
+    ]
+  },
+  {
+    "id": "p21",
+    "name": "Prime Phone Stand",
+    "category": "Accessories",
+    "price": 19.0,
+    "compareAt": 25.0,
+    "rating": 4.2,
+    "reviews": 436,
+    "stock": 75,
+    "badge": "Sale",
+    "art": "speaker",
+    "colors": [
+      "#fecaca",
+      "#fda4af",
+      "#9f1239"
+    ],
+    "description": "A weighted aluminium stand that holds your phone or tablet at the perfect angle.",
+    "features": [
+      "Adjustable angle",
+      "Non-slip base",
+      "Fits phones and tablets",
+      "Aluminium build"
+    ]
+  },
+  {
+    "id": "p22",
+    "name": "Nova Desk Lamp Clip",
+    "category": "Accessories",
+    "price": 34.0,
+    "rating": 4.0,
+    "reviews": 127,
+    "stock": 9,
+    "badge": "",
+    "art": "lamp",
+    "colors": [
+      "#fde68a",
+      "#fcd34d",
+      "#78350f"
+    ],
+    "description": "A clamp-on LED lamp with three colour temperatures and a flexible neck.",
+    "features": [
+      "3 colour modes",
+      "Flexible gooseneck",
+      "Clamp mounts to any desk",
+      "USB powered"
+    ]
+  },
+  {
+    "id": "p23",
+    "name": "Fold Sleeve for Laptops",
+    "category": "Accessories",
+    "price": 27.0,
+    "rating": 4.3,
+    "reviews": 305,
+    "stock": 55,
+    "badge": "",
+    "art": "book",
+    "colors": [
+      "#d1fae5",
+      "#a7f3d0",
+      "#065f46"
+    ],
+    "description": "A padded 14-inch laptop sleeve with a soft lining and a pocket for your charger.",
+    "features": [
+      "Fits 13 to 14 inch",
+      "Padded protection",
+      "Water-repellent",
+      "Front pocket"
+    ]
+  },
+  {
+    "id": "p24",
+    "name": "Wander Canvas Tote",
+    "category": "Accessories",
+    "price": 21.0,
+    "rating": 4.5,
+    "reviews": 578,
+    "stock": 65,
+    "badge": "New",
+    "art": "backpack",
+    "colors": [
+      "#fef3c7",
+      "#fcd34d",
+      "#713f12"
+    ],
+    "description": "A sturdy cotton canvas tote with an inner zip pocket. It carries your groceries or your laptop.",
+    "features": [
+      "Heavy canvas",
+      "Inner zip pocket",
+      "Long shoulder straps",
+      "Washable"
+    ]
+  }
+]
